@@ -2,8 +2,8 @@
 layout: post
 title:  "关于服务器性能的一些思考"
 date:   2016-12-08 15:14:54
-categories: 性能 服务器 jekyll
-tags: 性能 服务器 jekyll
+categories: 性能 服务器
+tags: 性能 服务器
 excerpt: 关于服务器性能的一些思考
 ---
 
