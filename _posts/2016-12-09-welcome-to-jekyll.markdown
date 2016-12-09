@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hello jekyll!"
-date:   2016-12-08 15:14:54
+date:   2016-12-08 12:14:54
 categories: jekyll
 tags: jekyll
 excerpt: 创建 jekyll 时的默认文章，没什么意义，留个纪念。
